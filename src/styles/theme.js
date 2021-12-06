@@ -1,18 +1,8 @@
 const colors = {
-  titleBlack: '#000000',
-  contentBlack: '#3D3D3D',
-  gray1: '#6D6D6D',
-  gray2: '#9E9E9E',
-  borderGray: '#E6E6E6',
-  lightGray: '#707070',
-  buttonGray: '#E5E5E5',
-  contentGray: '#C4C4C4',
-  heartGray: '#727474',
-  hrGray: '#EFEFEF',
-  red1: '#FF5757',
-  red2: '#FF7878',
-  red3: '#E66D5B',
-  white: '#ffffff',
+  green: '#06d69f',
+  navy1: '#202540',
+  navy2: '#333a64',
+  blue: '#a9b3e0',
 };
 
 const deviceSizes = {
