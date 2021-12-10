@@ -12,8 +12,14 @@ const GlobalStyles = createGlobalStyle`
     }
     html {
         font-size: 10px;
+        margin: 0;
+        padding: 0;
+        height: 100%;
     }
-    body{
+    body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
         font-family: 'Pretendard-Regular', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     }
     
